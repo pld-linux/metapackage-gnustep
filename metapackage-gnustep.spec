@@ -9,6 +9,7 @@ Requires:	gnustep-gui
 Requires:	gnustep-examples
 Requires:	WindowMaker
 Requires:	GWorkspace
+Requires:	Backbone
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
