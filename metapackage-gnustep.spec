@@ -1,5 +1,5 @@
 Summary:	GNUstep Suite
-Summary(pl):	¦rodowisko GNUstep
+Summary(pl.UTF-8):   Åšrodowisko GNUstep
 Name:		metapackage-gnustep
 Version:	0.1
 Release:	1
@@ -17,7 +17,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 GNUstep suite metapackage.
 
-%description -l pl
-Metapakiet ¶rodowiska GNUstep.
+%description -l pl.UTF-8
+Metapakiet Å›rodowiska GNUstep.
 
 %files
