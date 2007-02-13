@@ -1,5 +1,5 @@
 Summary:	GNUstep Suite
-Summary(pl.UTF-8):   Środowisko GNUstep
+Summary(pl.UTF-8):	Środowisko GNUstep
 Name:		metapackage-gnustep
 Version:	0.1
 Release:	1
