@@ -20,4 +20,6 @@ GNUstep suite metapackage.
 %description -l pl.UTF-8
 Metapakiet środowiska GNUstep.
 
+%prep
+
 %files
